@@ -27,9 +27,7 @@ logs/
 .gradle
 ExportedObj/
 .consulo
-*.csproj
 *.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
@@ -53,6 +51,8 @@ crashlytics-build.properties
 **/assets/addressableassetsdata/*/*.bin*
 **/Assets/StreamingAssets/aa.meta
 **/assets/streamingassets/*/aa/*
-.DS_Store*
+.DS_Store
 Thumbs.db
 Desktop.ini
+
+.plastic/
