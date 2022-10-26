@@ -1,4 +1,0 @@
-repository "Anomaly@Arro_Digital@cloud"
-  path "/"
-    br "/main"
-    co "/main"
